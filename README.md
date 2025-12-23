@@ -3,9 +3,10 @@
 
 <p align="center">
   <b>Backend / Cloud / DevOps</b> ・ FastAPI ・ Azure ・ Container Apps ・ Azure DevOps
+</p>
+<p align="center">
   <b>Front / Vercel / CloudFlare</b> ・ TS・ Next.js・ React
 </p>
-
 <p align="center">
   <!-- Badges (keep style consistent) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -13,7 +14,6 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=ts,html,css,wasm" />
 </p>
 
 ---
@@ -30,10 +30,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,ts,vercel&perline=10)](https://skillicons.dev)
 
 ---
-## 🧩 What Can I do
+## 🧩 Features
 - Azure上で動くAPI/マイクロサービス（FastAPI）設計・開発・運用
 - CI/CD（Azure DevOps / GitHub Actions）とコンテナ運用（Container Apps など）
 - パフォーマンス・信頼性・監視（ログ/メトリクス）を重視した実装
+- Next.jsを利用するフルスタックWeb系
 
 ---
 
@@ -48,7 +49,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
 -->
 
-## 🚀 Featured
+## 🚀 Samply
 ### TOEIC Words (Personal Project)
 🔗 https://toeic-words.com/
 
