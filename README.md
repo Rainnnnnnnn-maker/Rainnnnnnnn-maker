@@ -3,6 +3,7 @@
 
 <p align="center">
   <b>Backend / Cloud / DevOps</b> ・ FastAPI ・ Azure ・ Container Apps ・ Azure DevOps
+  <b>Front / Vercel / CloudFlare</b> ・ TS・ Next.js・ React
 </p>
 
 <p align="center">
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,html,css,wasm" />
 </p>
 
 ---
@@ -25,7 +27,7 @@
 ---
 
 ## Skills (icons)
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,kubernetes,githubactions,postgres,mysql,redis,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,ts,vercel&perline=10)](https://skillicons.dev)
 
 ---
 ## 🧩 What Can I do
