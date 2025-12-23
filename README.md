@@ -61,15 +61,15 @@ TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開�
 
 **Highlights**
 - 📚 単語一覧 → 詳細ページの導線をカードUIで整理
-- 🔊 発音・音声再生（TTS連携を想定）
+- 👄 発音・音声再生（TTS連携を想定）
 - 🧠 AIでの定義/例文生成（API経由で安全に利用する設計）
 - ⚡ キャッシュ/パフォーマンス最適化（学習体験を軽く）
 
 **Tech Stack (example)**
 - Next.js (App Router) / TypeScript / Tailwind CSS
-- AI API（定義・例文生成）
+- AI API（定義・類似語・TOEIC例文生成）
 - TTS API（発音）
-- Cache（例: Redis系） & Edge/Hosting（例: Vercel / Cloudflare）
+- Cache（例: Redis系） & Edge/Hosting（Vercel）
 
 ---
 
