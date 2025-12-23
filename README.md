@@ -30,7 +30,7 @@
 ---
 
 ## Skills (icons)
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,ts,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,ts,vercel,cloudflare&perline=15)](https://skillicons.dev)
 
 ---
 ## 🦄 Features
