@@ -28,6 +28,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,kubernetes,githubactions,postgres,mysql,redis,linux&perline=10)](https://skillicons.dev)
 
 ---
+## 🧩 What Can I do
+- Azure上で動くAPI/マイクロサービス（FastAPI）設計・開発・運用
+- CI/CD（Azure DevOps / GitHub Actions）とコンテナ運用（Container Apps など）
+- パフォーマンス・信頼性・監視（ログ/メトリクス）を重視した実装
+
+---
 
 
 <!-- Optional: streak (if you want activity emphasis) -->
@@ -58,13 +64,6 @@ TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開�
 - AI API（定義・例文生成）
 - TTS API（発音）
 - Cache（例: Redis系） & Edge/Hosting（例: Vercel / Cloudflare）
-
----
-
-## 🧩 What I do
-- Azure上で動くAPI/マイクロサービス（FastAPI）設計・開発・運用
-- CI/CD（Azure DevOps / GitHub Actions）とコンテナ運用（Container Apps など）
-- パフォーマンス・信頼性・監視（ログ/メトリクス）を重視した実装
 
 ---
 
