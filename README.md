@@ -25,7 +25,7 @@
 - 💼 Building scalable APIs & microservices on Azure
 - 🧩 Focus: reliability, performance, CI/CD, observability
 - 📌 Based in Japan (Nagoya)
-- 📫 Contact: (X / LinkedIn / Email / Blog URL)
+- 📫 Contact: (Email)
 
 ---
 
