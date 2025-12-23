@@ -23,7 +23,7 @@
 
 ## About
 - 💼 Building scalable APIs & microservices on Azure
-- 🧩 Focus: reliability, performance, CI/CD, observability
+- 🔥 Focus: reliability, performance, CI/CD, observability
 - 📌 Based in Japan (Nagoya)
 - 📫 Contact: (Email)
 
@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,ts,vercel&perline=10)](https://skillicons.dev)
 
 ---
-## 🧩 Features
+## 🦄 Features
 - Azure上で動くAPI/マイクロサービス（FastAPI）設計・開発・運用
 - CI/CD（Azure DevOps / GitHub Actions）とコンテナ運用（Container Apps など）
 - パフォーマンス・信頼性・監視（ログ/メトリクス）を重視した実装
