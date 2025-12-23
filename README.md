@@ -52,7 +52,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
 -->
 
-## 🚀 Samply
+## 🚀 Sample
 ### TOEIC Words (Personal Project)
 🔗 https://toeic-words.com/
 
