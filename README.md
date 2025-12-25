@@ -23,6 +23,7 @@
 
 ## About
 - 💼 Building scalable APIs & microservices on Azure
+- 🌐 Building fullstack Website by Next.js
 - 🔥 Focus: reliability, performance, CI/CD, observability
 - 📌 Based in Japan (Nagoya)
 - 📫 Contact: (Email)
@@ -61,9 +62,10 @@ TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開�
 
 **Highlights**
 - 📚 単語一覧 → 詳細ページの導線をカードUIで整理
-- 👄 発音・音声再生（TTS連携を想定）
+- 🎶 発音・音声再生（TTS連携を想定）
 - 🧠 AIでの定義/例文生成（API経由で安全に利用する設計）
-- ⚡ キャッシュ/パフォーマンス最適化（学習体験を軽く）
+- ⚡ キャッシュ/パフォーマンス最適化（学習体験）
+- 🦄 その他（開発ing）
 
 **Tech Stack (example)**
 - Next.js (App Router) / TypeScript / Tailwind CSS
@@ -80,8 +82,7 @@ TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開�
 ---
 
 ## 📈 Stats (optional)
-<p>
-</p>
+- 🎉開発中…
 
 <!-- Optional (if you want): -->
 <!--
