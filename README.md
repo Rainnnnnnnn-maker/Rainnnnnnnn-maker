@@ -1,5 +1,5 @@
 <!-- ===== Header (Colorful but professional) ===== -->
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=120&section=header&text=Hi,%20I'm%20Rainnnnnnnn-maker&fontSize=33&fontAlignY=45&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=120&section=header&text=Hi,%20I'm%20Rain&fontSize=33&fontAlignY=45&strokeWidth=1)
 
 <p align="center">
   <b>Backend / Cloud / DevOps</b> ・ FastAPI ・ Azure ・ Container Apps ・ Azure DevOps
