@@ -76,7 +76,7 @@ TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開�
 ---
 
 ## 🔗 Links
-- Website: https://toeic-words.com/
+- Website: https://www.toeic-words.com/
 - GitHub: https://github.com/Rainnnnnnnn-maker
 
 ---
