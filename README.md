@@ -55,7 +55,7 @@
 
 ## 🚀 Sample
 ### TOEIC Words (Personal Project)
-🔗 https://toeic-words.com/
+🔗 https://www.toeic-words.com/
 
 TOEIC学習のための単語学習サイトを **Next.js + TypeScript** で開発。  
 「覚えやすさ」と「継続しやすさ」を重視し、単語詳細の解説（定義・例文・類義語・語形変化）や音声再生など、学習導線をシンプルにまとめています。
