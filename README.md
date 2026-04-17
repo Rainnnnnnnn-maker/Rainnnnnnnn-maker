@@ -35,7 +35,7 @@
 
 ---
 ## 🦄 Features
-- Azure上で動くAPI/マイクロサービス（FastAPI）設計・開発・運用
+- Azure・AWS・GCP・Cloudflare上で動くAPI/マイクロサービス設計・開発・運用
 - CI/CD（Azure DevOps / GitHub Actions）とコンテナ運用（Container Apps など）
 - パフォーマンス・信頼性・監視（ログ/メトリクス）を重視した実装
 - Next.jsを利用するフルスタックWeb系
