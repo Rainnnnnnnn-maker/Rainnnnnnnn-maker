@@ -9,6 +9,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -30,7 +31,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,docker,githubactions,postgres,mysql,supabase,redis,nextjs,react,ts,tailwind,vercel,cloudflare&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,azure,aws,docker,githubactions,postgres,mysql,supabase,redis,nextjs,react,ts,tailwind,vercel,cloudflare&perline=16)](https://skillicons.dev)
 
 ## Projects
 
