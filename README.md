@@ -54,12 +54,6 @@ TOEIC学習向けに、1,300語以上の英単語を例文・類義語・語形�
 
 名古屋市北区・上飯田のネイルサロン公式サイトです。モバイル対応、店舗・料金情報、予約導線、OGP、JSON-LD、sitemapなどを含む静的サイトとして構築しています。
 
-## Other Repositories
-
-- [cloudflare_demo](https://github.com/Rainnnnnnnn-maker/cloudflare_demo) — Hono + TypeScriptによるCloudflare Workers API
-- [dapr-fastapi](https://github.com/Rainnnnnnnn-maker/dapr-fastapi) — FastAPI / Daprのサンプル
-- [supabase_demo_xxx](https://github.com/Rainnnnnnnn-maker/supabase_demo_xxx) — Supabase認証・CRUDのサンプル
-
 ## Links
 
 - [GitHub](https://github.com/Rainnnnnnnn-maker)
