@@ -37,7 +37,7 @@
 
 ### [TOEIC語彙ラボ](https://www.toeic-words.com/)
 
-[Source](https://github.com/Rainnnnnnnn-maker/toeic_website_ver2.0) · Next.js 16.2 / React 19 / TypeScript / Google Gemini / Upstash / Supabase / Vercel
+[Source](https://github.com/Rainnnnnnnn-maker/toeic_website_ver2.0) · Next.js 16.3 / React 19 / TypeScript / Google Gemini / Upstash / Supabase / Vercel
 
 TOEIC学習向けに、1,300語以上の英単語を例文・類義語・語形変化・音声とともに確認できるWebアプリケーションです。
 
