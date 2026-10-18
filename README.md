@@ -21,8 +21,6 @@
 
 ## About
 
-名古屋を拠点に、クラウドネイティブなAPIとWebアプリケーションを開発しています。
-
 - Azure / Cloudflare / Vercelを活用したサービス設計・開発・運用
 - FastAPIによるAPI・マイクロサービス開発
 - Next.js App RouterによるフルスタックWeb開発
